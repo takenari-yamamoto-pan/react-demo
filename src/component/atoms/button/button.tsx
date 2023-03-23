@@ -1,5 +1,6 @@
-import React from 'react';
+import React from "react";
+import styles from "../button/button.module.scss";
 
 export const Button = () => {
-  return <div>Button</div>;
+  return <button>Button</button>;
 };
